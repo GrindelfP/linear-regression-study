@@ -1,0 +1,8 @@
+= Linear regression study =
+
+== Description ==
+
+This task is divided in two parts. 
+
+- first is dedicated to studying the theory of Linear Regression based on https://habr.com/ru/articles/672540/:"this Habr article";
+- second part is to be done oneself and be alike the code of the first part, but there is different dataset to be processed.
