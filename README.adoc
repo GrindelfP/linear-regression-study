@@ -6,3 +6,13 @@ This task is divided in two parts.
 
 - first is dedicated to studying the theory of Linear Regression based on https://habr.com/ru/articles/672540/:[this Habr article];
 - second part is to be done oneself and be alike the code of the first part, but there is different dataset to be processed.
+
+== Given task ==
+
+1. Study the article
+2. Repeat all stages of work in your own notepad (including formulas (text cells) and graphs)
+3. Accompany code with comments
+4. Come up with your own data set alike the article
+5. Implement the entire process described in the article with your own data set
+6. Check your result coefficints using the sklearn library (LinearRegression)
+7. Write conclusions about the work done
